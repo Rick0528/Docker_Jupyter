@@ -5,5 +5,7 @@
 
 # mlflow
 1. 執行iris_mlflow.ipynb
-2. 進入terminal執行mlflow ui
+2. 進入terminal執行`mlflow ui`
 3. 進到127.0.0.1:5000即會看到mlflow
+>或
+https://community.cloud.databricks.com/?o=8993682732025407#mlflow/experiments/662466207092478
